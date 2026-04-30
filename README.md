@@ -8,6 +8,7 @@ Install required libraries:
 pip install matplotlib pandas numpy<br>
 
 📈 Features<br>
+
 Line Plot (basic & customized)<br>
 Multiple Subplots<br>
 Bar Chart<br>
@@ -21,7 +22,7 @@ Sales Data Visualization using Pandas<br>
 The project uses a sample sales dataset containing:<br>
 
 Customer ID<br>
-Product Category
-Quantity
-Price per Unit
-Total Amount
+Product Category<br>
+Quantity<br>
+Price per Unit<br>
+Total Amount<br>
