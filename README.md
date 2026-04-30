@@ -8,12 +8,13 @@ Install required libraries:
 pip install matplotlib pandas numpy
 📈 Features
 Line Plot (basic & customized)
-Multiple Subplots
-Bar Chart
-Histogram
-Scatter Plot
-Pie Chart
-Sales Data Visualization using Pandas
+Multiple Subplots<br>
+Bar Chart<br>
+Histogram<br>
+Scatter Plot<br>
+Pie Chart<br>
+Sales Data Visualization using Pandas<br>
+
 📊 Dataset
 
 The project uses a sample sales dataset containing:
