@@ -5,9 +5,10 @@ This project demonstrates basic data visualization techniques using Matplotlib a
 
 Install required libraries:
 
-pip install matplotlib pandas numpy
-📈 Features
-Line Plot (basic & customized)
+pip install matplotlib pandas numpy<br>
+
+📈 Features<br>
+Line Plot (basic & customized)<br>
 Multiple Subplots<br>
 Bar Chart<br>
 Histogram<br>
@@ -15,11 +16,11 @@ Scatter Plot<br>
 Pie Chart<br>
 Sales Data Visualization using Pandas<br>
 
-📊 Dataset
+📊 Dataset<br>
 
-The project uses a sample sales dataset containing:
+The project uses a sample sales dataset containing:<br>
 
-Customer ID
+Customer ID<br>
 Product Category
 Quantity
 Price per Unit
