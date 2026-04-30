@@ -27,18 +27,19 @@ Quantity<br>
 Price per Unit<br>
 Total Amount<br>
 
-💡 Example
-import matplotlib.pyplot as plt
+💡 Example<br>
 
-x = [1,2,3,4,5]
-y = [1,4,9,16,25]
+import matplotlib.pyplot as plt<br>
 
-plt.plot(x, y)
-plt.xlabel("X Axis")
-plt.ylabel("Y Axis")
-plt.title("Basic Line Plot")
+x = [1,2,3,4,5]<br>
+y = [1,4,9,16,25]<br>
+
+plt.plot(x, y)<br>
+plt.xlabel("X Axis")<br>
+plt.ylabel("Y Axis")<br>
+plt.title("Basic Line Plot")<br>
 plt.show()<br>
 
-🎯 Conclusion
+🎯 Conclusion<br>
 
 This project helps understand how to visualize data and extract insights using Python.
